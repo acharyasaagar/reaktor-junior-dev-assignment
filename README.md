@@ -1,3 +1,11 @@
+# Access The Project from following link:
+
+[Herokuapp Link Click Here](https://reaktor-jrdev-assignment.herokuapp.com/)
+
+OR the link:
+
+> https://reaktor-jrdev-assignment.herokuapp.com/
+
 # How to run the project ?
 
 After cloning the repository, project can be run the following way:
