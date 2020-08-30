@@ -1,0 +1,1 @@
+{"name":"printer-driver-min12xxw","description":"printer driver for KonicaMinolta PagePro 1[234]xxW\n A cups/foomatic printer driver for the KonicaMinolta PagePro 1200W, 1250W,\n 1300W, 1350W and 1400W.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":["min12xxw"]}

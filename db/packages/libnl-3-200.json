@@ -1,0 +1,1 @@
+{"name":"libnl-3-200","description":"library for dealing with netlink sockets\n This is a library for applications dealing with netlink sockets.\n The library provides an interface for raw netlink messaging and various\n netlink family specific interfaces.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":[]}

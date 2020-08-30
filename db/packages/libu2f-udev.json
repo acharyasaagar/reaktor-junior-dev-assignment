@@ -1,0 +1,1 @@
+{"name":"libu2f-udev","description":"Universal 2nd Factor (U2F) common files\n Libu2f is a package for doing Universal 2nd Factor (U2F) host communication\n and has functionality for the Registration and Authentication operations.\n .\n This package provides the udev rules file required to support U2F devices.","dependencies":[],"reverseDependencies":[]}

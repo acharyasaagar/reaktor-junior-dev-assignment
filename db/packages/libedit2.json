@@ -1,0 +1,1 @@
+{"name":"libedit2","description":"BSD editline and history libraries\n Command line editor library provides generic line editing,\n history, and tokenization functions.\n .\n It slightly resembles GNU readline.","dependencies":[{"name":"libc6","alternates":[]},{"name":"libtinfo5","alternates":[]}],"reverseDependencies":[]}

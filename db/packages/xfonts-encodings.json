@@ -1,0 +1,1 @@
+{"name":"xfonts-encodings","description":"Encodings for X.Org fonts\n This package contains the encodings that map to specific characters.","dependencies":[{"name":"x11-common","alternates":[]}],"reverseDependencies":[]}

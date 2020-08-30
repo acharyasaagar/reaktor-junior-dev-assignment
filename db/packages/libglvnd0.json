@@ -1,0 +1,1 @@
+{"name":"libglvnd0","description":"Vendor neutral GL dispatch library\n This is an implementation of the vendor-neutral dispatch layer for\n arbitrating OpenGL API calls between multiple vendors on a per-screen basis.\n .\n This package contains the GL dispatch library.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":["libgldispatch0-nvidia"]}

@@ -1,0 +1,114 @@
+doctype html
+html 
+  head
+    link(rel="stylesheet", href="/styles.css" type='text/css')
+  body
+    main
+      section
+        aside.pb15.pl15
+          span package 
+        h1.pb15.pl15= package.name
+      section
+        aside.pb15.pl15
+          span description
+        p.pb15.pl15= package.description
+      section
+        aside.pb15.pl15
+          span dependencies
+        if package.dependencies.length
+          ul.pb15.pl15.dependencies
+            each dependency in package.dependencies 
+              li.dependency
+                a(href= dependency.name)= dependency.name
+              if dependency.alternates.length 
+                each alternate in dependency.alternates
+                  span.alternate #{ alternate }
+        else
+          h4.muted.pb15.pl15 This package has no dependencies.
+      section
+        aside.pb15.pl15
+          span reverse dependencies
+        if package.reverseDependencies.length
+          ul.pb15.pl15.dependencies
+            each reverseDependency in package.reverseDependencies
+              li.dependency
+                a(href= reverseDependency)= reverseDependency
+        else
+          h4.muted.pb15.pl15 This package has no reverse dependencies
+      section
+        aside.pb15.pl15
+          span tags
+        div.v-flex
+          if (package.tags && package.tags.length)
+            ul.pb15.pl15.tags
+              each tag in package.tags
+                li.tag= tag
+          else
+            h4.muted.pb15.pl15 This package has no tags.
+          form.pb15.pl15(id="tag-form")
+                input(type="text" name="tag")
+                button(type="submit") add a tag
+      section
+        aside.pb15.pl15
+          span notes
+        div.v-flex
+          if (package.notes && package.notes.length)
+              ul.notes.pb15.pl15
+                each note in package.notes
+                  li.note= note
+          else
+            h4.muted.pb15.pl15 This package has no notes.
+          form.pb15.pl15(id="note-form")
+            textarea(name="note" rows="5" cols="40")
+            div
+              input(type="submit" value="add a note ")
+    script. 
+      const noteForm = document.querySelector('#note-form')
+      const addNote = e => {
+        e.preventDefault()
+        const body = JSON.stringify({
+          patch: 'note',
+          data: e.target.note.value
+        })
+        e.target.note.value = ''
+        fetch('/#{package.name}', {
+          method: 'PATCH',
+          body,
+          headers: {
+            'Content-Type': 'application/json',
+            'Accept': '*/*'
+          }
+        })
+        .then(res => {
+          if (res.status === 200) {
+            location.reload(true)
+          }
+        })
+      }
+      noteForm.addEventListener('submit', addNote)
+
+      const tagForm = document.getElementById('tag-form')
+      const addTag = e => {
+        console.log('event registered')
+        e.preventDefault()
+        const body = JSON.stringify({
+          patch: 'tag',
+          data: e.target.tag.value
+        })
+        e.target.tag.value = ''
+        fetch('/#{package.name}', {
+          method: 'PATCH',
+          body,
+          headers: {
+            'Content-Type': 'application/json',
+            'Accept': '*/*'
+          }
+        })
+        .then(res => {
+          if (res.status === 200) {
+            location.reload(true)
+          }
+        })
+      }
+      tagForm.addEventListener('submit', addTag)
+      

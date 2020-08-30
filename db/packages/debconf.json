@@ -1,0 +1,1 @@
+{"name":"debconf","description":"Debian configuration management system\n Debconf is a configuration management system for debian packages. Packages\n use Debconf to ask questions when they are installed.","dependencies":[],"reverseDependencies":["apt-listchanges","ubiquity","update-notifier-common"]}

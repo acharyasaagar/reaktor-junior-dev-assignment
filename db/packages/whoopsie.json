@@ -1,0 +1,1 @@
+{"name":"whoopsie","description":"Ubuntu error tracker submission\n This program submits crash reports back to an Ubuntu server.","dependencies":[{"name":"libc6","alternates":[]},{"name":"libcurl3-gnutls","alternates":[]},{"name":"libglib2.0-0","alternates":[]},{"name":"libwhoopsie0","alternates":[]},{"name":"adduser","alternates":[]}],"reverseDependencies":[]}

@@ -1,0 +1,1 @@
+{"name":"libc-dev-bin","description":"GNU C Library: Development binaries\n This package contains utility programs related to the GNU C Library\n development package.","dependencies":[{"name":"libc6","alternates":[]},{"name":"libc6","alternates":[]}],"reverseDependencies":[]}

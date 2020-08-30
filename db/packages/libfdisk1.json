@@ -1,0 +1,1 @@
+{"name":"libfdisk1","description":"fdisk partitioning library\n The libfdisk library is used for manipulating partition tables. It is\n the core of the fdisk, cfdisk, and sfdisk tools.","dependencies":[{"name":"libblkid1","alternates":[]},{"name":"libc6","alternates":[]},{"name":"libuuid1","alternates":[]}],"reverseDependencies":[]}

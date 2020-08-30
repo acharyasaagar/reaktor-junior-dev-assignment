@@ -1,0 +1,1 @@
+{"name":"libxshmfence1","description":"X shared memory fences - shared library\n This library provides an interface to shared-memory fences for\n synchronization between the X server and direct-rendering clients.\n .\n This package contains the xshmfence shared library.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":[]}

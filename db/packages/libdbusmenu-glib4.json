@@ -1,0 +1,1 @@
+{"name":"libdbusmenu-glib4","description":"library for passing menus over DBus\n libdbusmenu passes a menu structure across DBus so that a program can\n create a menu simply without worrying about how it is displayed on the\n other side of the bus.\n .\n This package contains shared libraries to be used by applications.","dependencies":[],"reverseDependencies":[]}

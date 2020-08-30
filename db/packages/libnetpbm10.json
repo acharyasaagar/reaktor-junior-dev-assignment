@@ -1,0 +1,1 @@
+{"name":"libnetpbm10","description":"Graphics conversion tools shared libraries\n This package contains the shared libraries used by netpbm.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":[]}

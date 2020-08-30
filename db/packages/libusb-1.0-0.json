@@ -1,0 +1,1 @@
+{"name":"libusb-1.0-0","description":"userspace USB programming library\n Library for programming USB applications without the knowledge\n of Linux kernel internals.\n .\n This package contains what you need to run programs that use this\n library.","dependencies":[{"name":"libc6","alternates":[]},{"name":"libudev1","alternates":[]}],"reverseDependencies":[]}

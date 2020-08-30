@@ -1,0 +1,1 @@
+{"name":"laptop-detect","description":"system chassis type checker\n This package provides a simple shell script which attempts to determine\n whether it is being run on a laptop (or similar portable machine). It is\n mainly useful for installers.","dependencies":[],"reverseDependencies":[]}

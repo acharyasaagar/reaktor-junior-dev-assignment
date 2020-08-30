@@ -1,0 +1,1 @@
+{"name":"fonts-samyak-deva","description":"Samyak TrueType font for Devanagari script\n This package provides Samyak TrueType font for Devanagari\n Script which is used as script for following Indian\n languages:\n  * Sanskrit\n  * Hindi\n  * Kashmiri\n  * Konkani\n  * Marathi\n  * Maithili\n  * Nepali\n  * Sindhi","dependencies":[],"reverseDependencies":["ttf-devanagari-fonts"]}

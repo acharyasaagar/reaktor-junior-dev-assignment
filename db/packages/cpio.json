@@ -1,0 +1,1 @@
+{"name":"cpio","description":"GNU cpio -- a program to manage archives of files\n GNU cpio is a tool for creating and extracting archives, or copying\n files from one place to another.  It handles a number of cpio formats\n as well as reading and writing tar files.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":[]}

@@ -1,0 +1,1 @@
+{"name":"libsbc1","description":"Sub Band CODEC library - runtime\n This provides the library and tool which operate SBC\n (sub band codec) in A2DP (the Advanced Audio Distribution Profile).\n .\n This package contains the sbc runtime library.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":[]}

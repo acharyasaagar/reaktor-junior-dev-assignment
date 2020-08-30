@@ -1,0 +1,1 @@
+{"name":"dns-root-data","description":"DNS root data including root zone and DNSSEC key\n This package contains various root zone related data as published\n by IANA to be used by various DNS software as a common source\n of DNS root zone data, namely:\n .\n  * Root Hints (root.hints)\n  * Root Trust Anchors (root.key, root.ds)","dependencies":[],"reverseDependencies":[]}

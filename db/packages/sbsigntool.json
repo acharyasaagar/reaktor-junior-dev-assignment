@@ -1,0 +1,1 @@
+{"name":"sbsigntool","description":"Tools to manipulate signatures on UEFI binaries and drivers\n This package installs tools which can cryptographically sign EFI binaries and\n drivers.","dependencies":[{"name":"libc6","alternates":[]},{"name":"libssl1.1","alternates":[]},{"name":"libuuid1","alternates":[]}],"reverseDependencies":[]}

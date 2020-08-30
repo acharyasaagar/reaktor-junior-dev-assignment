@@ -1,0 +1,1 @@
+{"name":"gir1.2-dee-1.0","description":"GObject introspection data for the Dee library\n This package contains introspection data for the Dee library.\n .\n It can be used by packages using the GIRepository format to generate\n dynamic bindings.","dependencies":[{"name":"gir1.2-glib-2.0","alternates":[]},{"name":"libdee-1.0-4","alternates":[]}],"reverseDependencies":[]}

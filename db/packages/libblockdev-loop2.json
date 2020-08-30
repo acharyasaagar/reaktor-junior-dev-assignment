@@ -1,0 +1,1 @@
+{"name":"libblockdev-loop2","description":"Loop device plugin for libblockdev\n The libblockdev library plugin (and in the same time a standalone library)\n providing the functionality related to loop devices.","dependencies":[{"name":"libblockdev-utils2","alternates":[]},{"name":"libc6","alternates":[]},{"name":"libglib2.0-0","alternates":[]}],"reverseDependencies":[]}

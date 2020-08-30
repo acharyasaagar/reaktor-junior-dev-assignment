@@ -1,0 +1,1 @@
+{"name":"java-common","description":"Base package for Java runtimes\n This package provides common tools for the Java runtimes, such as\n the update-java-alternatives mechanism used to switch between\n different versions of Java.","dependencies":[],"reverseDependencies":[]}

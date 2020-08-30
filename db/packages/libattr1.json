@@ -1,0 +1,1 @@
+{"name":"libattr1","description":"Extended attribute shared library\n Contains the runtime environment required by programs that make use\n of extended attributes.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":[]}

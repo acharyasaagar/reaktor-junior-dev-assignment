@@ -1,0 +1,1 @@
+{"name":"libasound2-data","description":"Configuration files and profiles for ALSA drivers\n This package contains configuration files for ALSA drivers and UCM\n profiles for use with alsaucm.\n .\n ALSA is the Advanced Linux Sound Architecture.","dependencies":[],"reverseDependencies":["libasound2"]}

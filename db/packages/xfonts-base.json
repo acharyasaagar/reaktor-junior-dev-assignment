@@ -1,0 +1,1 @@
+{"name":"xfonts-base","description":"standard fonts for X\n xfonts-base provides a standard set of low-resolution bitmapped fonts.  In\n most cases it is desirable to have the X font server (xfs) and/or an X server\n installed to make the fonts available to X clients.","dependencies":[{"name":"xfonts-utils","alternates":[]}],"reverseDependencies":[]}

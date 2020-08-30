@@ -1,0 +1,1 @@
+{"name":"gsettings-ubuntu-schemas","description":"GSettings deskop-wide schemas for Ubuntu\n gsettings-ubuntu-schemas contains a collection of GSettings schemas for\n settings shared by various components of an Ubuntu environment.","dependencies":[{"name":"dconf-gsettings-backend","alternates":["gsettings-backend"]}],"reverseDependencies":["gsettings-ubuntu-touch-schemas"]}

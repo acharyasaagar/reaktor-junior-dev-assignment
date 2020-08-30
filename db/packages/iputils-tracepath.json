@@ -1,0 +1,1 @@
+{"name":"iputils-tracepath","description":"Tools to trace the network path to a remote host\n The tracepath utility is similar to the traceroute utility, but also\n attempts to discover the MTU of the path. Supports IPv4 and IPv6.","dependencies":[{"name":"libc6","alternates":[]},{"name":"libcap2","alternates":[]},{"name":"libidn11","alternates":[]}],"reverseDependencies":[]}

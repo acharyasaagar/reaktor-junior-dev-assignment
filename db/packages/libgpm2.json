@@ -1,0 +1,1 @@
+{"name":"libgpm2","description":"General Purpose Mouse - shared library\n This package provides a library that handles mouse requests\n and delivers them to applications. See the description for the 'gpm'\n package for more information.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":[]}

@@ -1,0 +1,1 @@
+{"name":"python3-oauth","description":"Python 3 library implementing of the OAuth protocol\n python-oauth implements OAuth, which is an open protocol to allow API\n authentication in a simple and standard method from desktop and web\n applications for Python 3.","dependencies":[{"name":"python3:any","alternates":[]}],"reverseDependencies":[]}

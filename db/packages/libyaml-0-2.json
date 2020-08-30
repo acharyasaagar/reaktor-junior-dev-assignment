@@ -1,0 +1,1 @@
+{"name":"libyaml-0-2","description":"Fast YAML 1.1 parser and emitter library\n LibYAML is a C library for parsing and emitting data in YAML 1.1, a\n human-readable data serialization format.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":[]}

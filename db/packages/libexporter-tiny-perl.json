@@ -1,0 +1,1 @@
+{"name":"libexporter-tiny-perl","description":"tiny exporter similar to Sub::Exporter\n Exporter::Tiny is an exporter for Perl with the features of\n Sub::Exporter but only core dependencies.","dependencies":[{"name":"perl","alternates":[]}],"reverseDependencies":[]}

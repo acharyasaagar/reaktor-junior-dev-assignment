@@ -1,0 +1,1 @@
+{"name":"bubblewrap","description":"setuid wrapper for unprivileged chroot and namespace manipulation\n Core execution engine for unprivileged containers that works as a setuid\n binary on kernels without user namespaces.","dependencies":[{"name":"libc6","alternates":[]},{"name":"libcap2","alternates":[]},{"name":"libselinux1","alternates":[]}],"reverseDependencies":["flatpak"]}

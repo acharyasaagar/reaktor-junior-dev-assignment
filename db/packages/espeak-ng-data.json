@@ -1,0 +1,1 @@
+{"name":"espeak-ng-data","description":"Multi-lingual software speech synthesizer: speech data files\n eSpeak NG is a software speech synthesizer for English, and some other\n languages.\n .\n This package contains necessary synthesizer data files needed\n for the espeak-ng program and the shared library.","dependencies":[],"reverseDependencies":[]}

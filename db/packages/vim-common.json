@@ -1,0 +1,1 @@
+{"name":"vim-common","description":"Vi IMproved - Common files\n Vim is an almost compatible version of the UNIX editor Vi.\n .\n This package contains files shared by all non GUI-enabled vim variants\n available in Debian.  Examples of such shared files are: manpages and\n configuration files.","dependencies":[{"name":"xxd","alternates":[]}],"reverseDependencies":[]}

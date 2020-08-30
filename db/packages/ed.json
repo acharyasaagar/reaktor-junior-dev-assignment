@@ -1,0 +1,1 @@
+{"name":"ed","description":"classic UNIX line editor\n ed is a line-oriented text editor.  It is used to\n create, display, modify and otherwise manipulate text\n files.\n .\n red is a restricted ed: it can only edit files in the\n current directory and cannot execute shell commands.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":[]}

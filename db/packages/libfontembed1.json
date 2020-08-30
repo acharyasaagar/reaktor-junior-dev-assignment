@@ -1,0 +1,1 @@
+{"name":"libfontembed1","description":"OpenPrinting CUPS Filters - Font Embed Shared library\n This library contains functions for font embedding in PDF files, commonly\n used by CUPS filters.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":[]}

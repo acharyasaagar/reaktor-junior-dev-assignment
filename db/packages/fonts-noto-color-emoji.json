@@ -1,0 +1,6 @@
+{
+  "name": "fonts-noto-color-emoji",
+  "description": "color emoji font from Google\n Noto is a collection of font families, each visually harmonized across\n scripts.\n .\n The name \"Noto\" is short for \"No Tofu\", describing the aim of covering\n all living Unicode scripts.\n .\n Tofu (豆腐) is Japanese jargon for unicode replacement character \"�\"\n (U+FFFD) often displayed as replacement for unassigned or unknown\n characters.\n .\n This package contains the color emoji font used on \"stock\" Android devices\n such as the Google Pixel.",
+  "dependencies": [],
+  "reverseDependencies": []
+}

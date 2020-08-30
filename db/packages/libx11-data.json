@@ -1,0 +1,1 @@
+{"name":"libx11-data","description":"X11 client-side library\n This package provides the locale data files for libx11.\n .\n More information about X.Org can be found at:\n <URL:https://www.X.org>\n .\n This module can be found at\n git://anongit.freedesktop.org/git/xorg/lib/libX11","dependencies":[],"reverseDependencies":["libx11-6"]}

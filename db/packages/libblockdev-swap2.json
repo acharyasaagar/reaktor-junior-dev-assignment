@@ -1,0 +1,1 @@
+{"name":"libblockdev-swap2","description":"Swap plugin for libblockdev\n The libblockdev library plugin (and in the same time a standalone library)\n providing the functionality related to swap devices.","dependencies":[{"name":"libblockdev-utils2","alternates":[]},{"name":"libc6","alternates":[]},{"name":"libglib2.0-0","alternates":[]}],"reverseDependencies":[]}

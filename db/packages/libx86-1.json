@@ -1,0 +1,1 @@
+{"name":"libx86-1","description":"x86 real-mode library\n A library to provide support for making real-mode calls x86 calls. On x86\n hardware, vm86 mode is used. On other platforms, x86 emulation is provided.\n .\n This package contains the shared library.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":[]}

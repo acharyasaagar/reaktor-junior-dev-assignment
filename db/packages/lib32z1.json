@@ -1,0 +1,1 @@
+{"name":"lib32z1","description":"compression library - 32 bit runtime\n zlib is a library implementing the deflate compression method found\n in gzip and PKZIP.  This package includes a 32 bit version of the\n shared library.","dependencies":[{"name":"libc6-i386","alternates":[]}],"reverseDependencies":[]}

@@ -1,0 +1,1 @@
+{"name":"libqmi-proxy","description":"Proxy to communicate with QMI ports\n This package contains the binary qmi-proxy used by libqmi to allow multiple\n clients to use the same QMI port simultaneously.","dependencies":[{"name":"libqmi-glib5","alternates":[]},{"name":"libc6","alternates":[]},{"name":"libglib2.0-0","alternates":[]}],"reverseDependencies":[]}

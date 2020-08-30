@@ -1,0 +1,1 @@
+{"name":"libbluetooth3","description":"Library to use the BlueZ Linux Bluetooth stack\n BlueZ is the official Linux Bluetooth protocol stack. It is an Open Source\n project distributed under GNU General Public License (GPL).","dependencies":[{"name":"libc6","alternates":[]},{"name":"libudev1","alternates":[]}],"reverseDependencies":[]}

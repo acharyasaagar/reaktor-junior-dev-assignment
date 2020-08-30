@@ -1,0 +1,1 @@
+{"name":"libsqlite3-0","description":"SQLite 3 shared library\n SQLite is a C library that implements an SQL database engine.\n Programs that link with the SQLite library can have SQL database\n access without running a separate RDBMS process.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":[]}

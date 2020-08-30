@@ -1,0 +1,1 @@
+{"name":"xul-ext-ubufox","description":"Ubuntu modifications for Firefox\n This package currently ships no functionality, but may be used again in\n the future to display a restart notification after upgrading Firefox.","dependencies":[{"name":"libglib2.0-0","alternates":[]}],"reverseDependencies":["ubufox"]}

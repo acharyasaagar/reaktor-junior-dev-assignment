@@ -1,0 +1,1 @@
+{"name":"tree","description":"displays an indented directory tree, in color\n Tree is a recursive directory listing command that produces a depth indented\n listing of files, which is colorized ala dircolors if the LS_COLORS environment\n variable is set and output is to tty.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":[]}

@@ -1,0 +1,1 @@
+{"name":"libestr0","description":"Helper functions for handling strings (lib)\n The 'libestr' library contains some essential string manipulation\n functions and more, like escaping special characters.\n .\n This package contains the shared library.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":[]}

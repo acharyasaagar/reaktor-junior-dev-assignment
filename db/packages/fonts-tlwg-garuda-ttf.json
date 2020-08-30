@@ -1,0 +1,1 @@
+{"name":"fonts-tlwg-garuda-ttf","description":"Thai Garuda TrueType font\n This package provides Thai Garuda font, code-named \"NF2\", from the\n National Font Project, in TrueType format.\n .\n The font provides Arial-compatible Thai monoweight glyphs traditionally\n used in school books and official documents.","dependencies":[],"reverseDependencies":["fonts-tlwg-garuda"]}

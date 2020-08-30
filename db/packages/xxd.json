@@ -1,0 +1,1 @@
+{"name":"xxd","description":"tool to make (or reverse) a hex dump\n xxd creates a hex dump of a given file or standard input.  It can also convert\n a hex dump back to its original binary form.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":["vim-common"]}

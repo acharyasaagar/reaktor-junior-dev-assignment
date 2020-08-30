@@ -1,0 +1,1 @@
+{"name":"binutils-common","description":"Common files for the GNU assembler, linker and binary utilities\n This package contains the localization files used by binutils packages for\n various target architectures and parts of the binutils documentation. It is\n not useful on its own.","dependencies":[],"reverseDependencies":["binutils"]}

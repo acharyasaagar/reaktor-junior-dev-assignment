@@ -1,0 +1,1 @@
+{"name":"libklibc","description":"minimal libc subset for use with initramfs\n klibc is intended to be a minimalistic libc subset for use with\n initramfs.  It is deliberately written for small size, minimal\n entanglement, and portability, not speed.  It is definitely a work in\n progress, and a lot of things are still missing.","dependencies":[],"reverseDependencies":[]}

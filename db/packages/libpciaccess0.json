@@ -1,0 +1,1 @@
+{"name":"libpciaccess0","description":"Generic PCI access library for X\n Provides functionality for X to access the PCI bus and devices\n in a platform-independent way.","dependencies":[{"name":"libc6","alternates":[]},{"name":"zlib1g","alternates":[]}],"reverseDependencies":[]}

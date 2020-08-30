@@ -1,0 +1,1 @@
+{"name":"libjson-c3","description":"JSON manipulation library - shared library\n This library allows you to easily construct JSON objects in C,\n output them as JSON formatted strings and parse JSON formatted\n strings back into the C representation of JSON objects.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":[]}

@@ -1,0 +1,1 @@
+{"name":"fonts-nakula","description":"Free Unicode compliant Devanagari font\n This package provides font for Devanagari script which is used for writing\n Hindi, Marathi and Sanskrit languages.\n .\n Nakula follows the Mumbai style of Devanagari, with rounded glyphs and little\n thin/thick variation.","dependencies":[],"reverseDependencies":["ttf-devanagari-fonts"]}

@@ -1,0 +1,1 @@
+{"name":"hostname","description":"utility to set/show the host name or domain name\n This package provides commands which can be used to display the system's\n DNS name, and to display or set its hostname or NIS domain name.","dependencies":[],"reverseDependencies":["nis"]}

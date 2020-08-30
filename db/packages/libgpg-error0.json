@@ -1,0 +1,1 @@
+{"name":"libgpg-error0","description":"library for common error values and messages in GnuPG components\n Library that defines common error values for all GnuPG\n components.  Among these are GPG, GPGSM, GPGME, GPG-Agent, libgcrypt,\n pinentry, SmartCard Daemon and possibly more in the future.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":[]}

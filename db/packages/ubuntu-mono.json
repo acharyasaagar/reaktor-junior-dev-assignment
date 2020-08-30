@@ -1,0 +1,1 @@
+{"name":"ubuntu-mono","description":"Ubuntu Mono Icon theme\n Dark and Light panel icons to make your desktop beautiful.","dependencies":[{"name":"adwaita-icon-theme","alternates":[]},{"name":"hicolor-icon-theme","alternates":[]},{"name":"humanity-icon-theme","alternates":[]}],"reverseDependencies":[]}

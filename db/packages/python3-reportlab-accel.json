@@ -1,0 +1,1 @@
+{"name":"python3-reportlab-accel","description":"C coded extension accelerator for the ReportLab Toolkit\n A C coded extension accelerator for the ReportLab Toolkit.","dependencies":[{"name":"python3","alternates":[]},{"name":"python3","alternates":[]},{"name":"libc6","alternates":[]}],"reverseDependencies":[]}

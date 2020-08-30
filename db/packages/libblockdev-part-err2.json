@@ -1,0 +1,1 @@
+{"name":"libblockdev-part-err2","description":"Partition error utility functions for libblockdev\n libblockdev-part-err is a library providing utility functions used by the\n libblockdev library and its plugins.","dependencies":[{"name":"libc6","alternates":[]},{"name":"libglib2.0-0","alternates":[]}],"reverseDependencies":[]}

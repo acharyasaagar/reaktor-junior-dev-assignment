@@ -1,0 +1,1 @@
+{"name":"ubuntu-artwork","description":"Ubuntu themes and artwork\n This package contains the Distributor Logo and pulls in all the\n other components via Depends.","dependencies":[{"name":"adium-theme-ubuntu","alternates":[]},{"name":"light-themes","alternates":[]},{"name":"ubuntu-mono","alternates":[]},{"name":"ubuntu-wallpapers","alternates":[]}],"reverseDependencies":[]}

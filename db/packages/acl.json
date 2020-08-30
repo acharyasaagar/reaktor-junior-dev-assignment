@@ -1,0 +1,10 @@
+{
+  "name": "acl",
+  "description": "Access control list utilities\n This package contains the getfacl and setfacl utilities needed for\n manipulating access control lists.",
+  "dependencies": [
+    { "name": "libacl1", "alternates": [] },
+    { "name": "libc6", "alternates": [] }
+  ],
+  "reverseDependencies": [],
+  "tags": ["support"]
+}

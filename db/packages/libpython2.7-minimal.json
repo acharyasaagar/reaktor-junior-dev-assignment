@@ -1,0 +1,1 @@
+{"name":"libpython2.7-minimal","description":"Minimal subset of the Python language (version 2.7)\n This package contains some essential modules. It is normally not\n used on it's own, but as a dependency of python2.7-minimal.","dependencies":[],"reverseDependencies":["python2.7-minimal"]}

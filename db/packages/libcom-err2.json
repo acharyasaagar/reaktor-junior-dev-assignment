@@ -1,0 +1,1 @@
+{"name":"libcom-err2","description":"common error description library\n libcomerr is an attempt to present a common error-handling mechanism to\n manipulate the most common form of error code in a fashion that does not\n have the problems identified with mechanisms commonly in use.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":["libcomerr2"]}

@@ -1,0 +1,1 @@
+{"name":"mount","description":"tools for mounting and manipulating filesystems\n This package provides the mount(8), umount(8), swapon(8),\n swapoff(8), and losetup(8) commands.","dependencies":[{"name":"util-linux","alternates":[]}],"reverseDependencies":["bash-completion"]}

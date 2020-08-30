@@ -1,0 +1,1 @@
+{"name":"fonts-tlwg-umpush-ttf","description":"Thai Umpush TrueType font\n This package provides Thai Umpush font from TLWG, in TrueType format.\n .\n The font provides arch-shaped Thai glyphs similar to Cordia.\n The style is mostly used in pocket books or semi-official documents.","dependencies":[],"reverseDependencies":["fonts-tlwg-umpush"]}

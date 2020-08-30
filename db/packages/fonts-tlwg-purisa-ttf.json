@@ -1,0 +1,6 @@
+{
+  "name": "fonts-tlwg-purisa-ttf",
+  "description": "Thai Purisa TrueType font\n This package provides Thai Purisa handwriting font from TLWG, in TrueType\n format.\n .\n The font provides handwriting Thai glyphs. Latin handwriting glyphs are\n also available.",
+  "dependencies": [],
+  "reverseDependencies": ["fonts-tlwg-purisa"]
+}

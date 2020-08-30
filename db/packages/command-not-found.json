@@ -1,0 +1,1 @@
+{"name":"command-not-found","description":"Suggest installation of packages in interactive bash sessions\n This package will install a handler for command_not_found that looks up\n programs not currently installed but available from the repositories.","dependencies":[{"name":"python3-commandnotfound","alternates":[]}],"reverseDependencies":[]}

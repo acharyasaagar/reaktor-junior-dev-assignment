@@ -1,0 +1,1 @@
+{"name":"ubuntu-keyring","description":"GnuPG keys of the Ubuntu archive\n The Ubuntu project digitally signs its Release files. This package\n contains the archive keys used for that.","dependencies":[],"reverseDependencies":["ubuntu-cloudimage-keyring"]}

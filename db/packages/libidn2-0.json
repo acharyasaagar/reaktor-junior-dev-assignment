@@ -1,0 +1,1 @@
+{"name":"libidn2-0","description":"Internationalized domain names (IDNA2008/TR46) library\n Libidn2 implements the revised algorithm for internationalized domain\n names called IDNA2008/TR46.\n .\n This package contains runtime libraries.","dependencies":[{"name":"libc6","alternates":[]},{"name":"libunistring2","alternates":[]}],"reverseDependencies":[]}

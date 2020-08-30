@@ -1,0 +1,1 @@
+{"name":"libseccomp2","description":"high level interface to Linux seccomp filter\n This library provides a high level interface to constructing, analyzing\n and installing seccomp filters via a BPF passed to the Linux Kernel's\n prctl() syscall.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":[]}

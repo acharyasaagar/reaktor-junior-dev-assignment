@@ -1,0 +1,1 @@
+{"name":"libdconf1","description":"simple configuration storage system - runtime library\n DConf is a low-level key/value database designed for storing desktop\n environment settings.\n .\n This package contains the runtime library.","dependencies":[{"name":"libc6","alternates":[]},{"name":"libglib2.0-0","alternates":[]}],"reverseDependencies":["gdm3"]}

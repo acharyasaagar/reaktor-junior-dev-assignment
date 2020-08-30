@@ -1,0 +1,1 @@
+{"name":"libcc1-0","description":"GCC cc1 plugin for GDB\n libcc1 is a plugin for GDB.","dependencies":[{"name":"gcc-8-base","alternates":[]},{"name":"libc6","alternates":[]},{"name":"libgcc1","alternates":[]},{"name":"libstdc++6","alternates":[]}],"reverseDependencies":[]}

@@ -1,0 +1,1 @@
+{"name":"libefivar1","description":"Library to manage UEFI variables\n Library to allow for the simple manipulation of UEFI variables.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":["efibootmgr"]}

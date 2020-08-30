@@ -1,0 +1,1 @@
+{"name":"pigz","description":"Parallel Implementation of GZip\n pigz, which stands for Parallel Implementation of GZip, is a fully functional\n replacement for gzip that takes advantage of multiple processors and multiple\n cores when compressing data.","dependencies":[{"name":"libc6","alternates":[]},{"name":"zlib1g","alternates":[]}],"reverseDependencies":[]}

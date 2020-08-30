@@ -1,0 +1,1 @@
+{"name":"libnuma1","description":"Libraries for controlling NUMA policy\n Library to control specific NUMA (Non-Uniform Memory Architecture)\n scheduling or memory placement policies.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":[]}

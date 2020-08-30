@@ -1,0 +1,1 @@
+{"name":"libsuitesparseconfig5","description":"configuration routines for all SuiteSparse modules\n Suitesparse is a collection of libraries for computations involving\n sparse matrices.\n .\n The SuiteSparse_config library provides configuration routines that are common\n to all SuiteSparse libraries.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":[]}

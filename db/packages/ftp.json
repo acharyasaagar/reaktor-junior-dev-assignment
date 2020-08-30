@@ -1,0 +1,1 @@
+{"name":"ftp","description":"classical file transfer client\n This is the user interface to the ARPANET standard File Transfer Protocol.\n The program allows a user to transfer files to and from a remote network\n site.","dependencies":[{"name":"libc6","alternates":[]},{"name":"libreadline7","alternates":[]},{"name":"netbase","alternates":[]}],"reverseDependencies":[]}

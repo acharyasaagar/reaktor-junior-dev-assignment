@@ -1,0 +1,1 @@
+{"name":"linux-headers-generic-hwe-18.04","description":"Generic Linux kernel headers\n This package will always depend on the latest generic kernel headers\n available.","dependencies":[{"name":"linux-headers-5.4.0-42-generic","alternates":[]}],"reverseDependencies":[]}

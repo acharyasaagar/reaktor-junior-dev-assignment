@@ -1,0 +1,1 @@
+{"name":"libpipeline1","description":"pipeline manipulation library\n This is a C library for setting up and running pipelines of processes,\n without needing to involve shell command-line parsing which is often\n error-prone and insecure.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":[]}

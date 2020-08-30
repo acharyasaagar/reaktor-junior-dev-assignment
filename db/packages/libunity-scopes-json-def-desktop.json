@@ -1,0 +1,1 @@
+{"name":"libunity-scopes-json-def-desktop","description":"binding to get places into the launcher - desktop def file\n libunity is a shared library to be able to interact with the launcher\n and add places in Unity environment.\n .\n This package contains default scopes definition for the destkop.","dependencies":[],"reverseDependencies":[]}

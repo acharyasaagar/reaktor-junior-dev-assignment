@@ -1,0 +1,1 @@
+{"name":"libblockdev-utils2","description":"Utility functions for libblockdev\n The libblockdev-utils is a library providing utility functions used by the\n libblockdev library and its plugins.","dependencies":[{"name":"libc6","alternates":[]},{"name":"libglib2.0-0","alternates":[]},{"name":"libkmod2","alternates":[]},{"name":"libudev1","alternates":[]}],"reverseDependencies":[]}

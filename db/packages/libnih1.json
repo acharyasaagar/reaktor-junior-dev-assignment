@@ -1,0 +1,1 @@
+{"name":"libnih1","description":"NIH Utility Library\n libnih is a light-weight \"standard library\" of C functions to ease the\n development of other libraries and applications, especially those\n normally found in /lib.\n .\n This package contains the shared library.","dependencies":[],"reverseDependencies":[]}

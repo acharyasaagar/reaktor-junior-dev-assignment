@@ -1,0 +1,1 @@
+{"name":"libtdb1","description":"Trivial Database - shared library\n This is a simple database API. It is modelled after the structure\n of GDBM. TDB features, unlike GDBM, multiple writers support with\n appropriate locking and transactions.\n .\n This package contains the shared library file.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":[]}

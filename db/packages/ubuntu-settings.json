@@ -1,0 +1,1 @@
+{"name":"ubuntu-settings","description":"default settings for the Ubuntu desktop\n This package contains the default settings used by Ubuntu.","dependencies":[{"name":"dconf-gsettings-backend","alternates":["gsettings-backend"]},{"name":"gnome-control-center-data","alternates":[]},{"name":"libglib2.0-bin","alternates":[]}],"reverseDependencies":[]}

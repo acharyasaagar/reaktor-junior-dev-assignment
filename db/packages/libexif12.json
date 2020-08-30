@@ -1,0 +1,1 @@
+{"name":"libexif12","description":"library to parse EXIF files\n Most digital cameras produce EXIF files, which are JPEG files with\n extra tags that contain information about the image. The EXIF library\n allows you to parse an EXIF file and read the data from those tags.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":[]}

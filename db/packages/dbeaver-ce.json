@@ -1,0 +1,1 @@
+{"name":"dbeaver-ce","description":"DBeaver Community\n Universal Database Manager and SQL Client","dependencies":[{"name":"openjdk-8-jre-headless","alternates":["openjdk-11-jre-headless","openjdk-11-jdk-headless"]}],"reverseDependencies":[]}

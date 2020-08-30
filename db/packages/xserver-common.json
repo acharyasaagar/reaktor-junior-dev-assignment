@@ -1,0 +1,1 @@
+{"name":"xserver-common","description":"common files used by various X servers\n This package provides files necessary for all X.Org based X servers.","dependencies":[{"name":"x11-common","alternates":[]},{"name":"xkb-data","alternates":[]},{"name":"x11-xkb-utils","alternates":[]}],"reverseDependencies":[]}

@@ -1,0 +1,1 @@
+{"name":"xinput","description":"Runtime configuration and test of XInput devices\n Xinput is an utility for configuring and testing XInput\n devices.","dependencies":[{"name":"libc6","alternates":[]},{"name":"libx11-6","alternates":[]},{"name":"libxi6","alternates":[]},{"name":"libxinerama1","alternates":[]},{"name":"libxrandr2","alternates":[]}],"reverseDependencies":[]}

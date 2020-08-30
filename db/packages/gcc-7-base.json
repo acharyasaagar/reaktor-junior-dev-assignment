@@ -1,0 +1,1 @@
+{"name":"gcc-7-base","description":"GCC, the GNU Compiler Collection (base package)\n This package contains files common to all languages and libraries\n contained in the GNU Compiler Collection (GCC).","dependencies":[],"reverseDependencies":["gcc-4.4-base","gcc-4.7-base","gcj-4.4-base","gcj-4.6-base","gnat","gnat-4.4-base","gnat-4.6"]}

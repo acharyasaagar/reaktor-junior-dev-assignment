@@ -1,0 +1,1 @@
+{"name":"libheimbase1-heimdal","description":"Heimdal Kerberos - Base library\n Heimdal is a free implementation of Kerberos 5 that aims to be\n compatible with MIT Kerberos.\n .\n This package contains the base library.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":[]}

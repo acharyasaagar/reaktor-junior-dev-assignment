@@ -1,0 +1,1 @@
+{"name":"libgweather-common","description":"GWeather common files\n libgweather is a library to access weather information from online\n services for numerous locations.\n .\n This package contains the weather locations.","dependencies":[{"name":"dconf-gsettings-backend","alternates":["gsettings-backend"]}],"reverseDependencies":[]}

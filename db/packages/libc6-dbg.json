@@ -1,0 +1,1 @@
+{"name":"libc6-dbg","description":"GNU C Library: detached debugging symbols\n This package contains the detached debugging symbols for the GNU C\n library.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":[]}

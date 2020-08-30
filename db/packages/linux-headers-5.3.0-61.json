@@ -1,0 +1,1 @@
+{"name":"linux-headers-5.3.0-61","description":"Header files related to Linux kernel version 5.3.0\n This package provides kernel header files for version 5.3.0, for sites\n that want the latest kernel headers. Please read\n /usr/share/doc/linux-hwe-headers-5.3.0-61/debian.README.gz for details","dependencies":[{"name":"coreutils","alternates":[]}],"reverseDependencies":[]}

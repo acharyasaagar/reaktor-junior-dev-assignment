@@ -1,0 +1,1 @@
+{"name":"sensible-utils","description":"Utilities for sensible alternative selection\n This package provides a number of small utilities which are used\n by programs to sensibly select and spawn an appropriate browser,\n editor, or pager.\n .\n The specific utilities included are: sensible-browser sensible-editor\n sensible-pager","dependencies":[],"reverseDependencies":[]}

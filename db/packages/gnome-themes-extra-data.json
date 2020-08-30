@@ -1,0 +1,1 @@
+{"name":"gnome-themes-extra-data","description":"Adwaita GTK+ 2 theme — common files\n This is the version of Adwaita, the standard GNOME theme, for the\n GTK+ 2.x toolkit.\n .\n The GTK+ 3.x version is already included in libgtk-3-0.\n .\n This package contains the common architecture-independent files.","dependencies":[],"reverseDependencies":[]}

@@ -1,0 +1,1 @@
+{"name":"libwayland-egl1-mesa","description":"transitional dummy package\n This is a transitional dummy package, it can be safely removed.","dependencies":[{"name":"libegl1","alternates":[]},{"name":"libwayland-egl1","alternates":[]}],"reverseDependencies":[]}

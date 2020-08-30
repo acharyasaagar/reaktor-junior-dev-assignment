@@ -1,0 +1,1 @@
+{"name":"libatasmart4","description":"ATA S.M.A.R.T. reading and parsing library\n A small and lightweight parser library for ATA S.M.A.R.T. hard disk\n health monitoring.\n .\n This package contains the shared library.","dependencies":[{"name":"libc6","alternates":[]},{"name":"libudev1","alternates":[]}],"reverseDependencies":[]}

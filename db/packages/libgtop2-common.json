@@ -1,0 +1,1 @@
+{"name":"libgtop2-common","description":"gtop system monitoring library (common)\n The gtop library reads information about processes and the state of the\n system. It is used by the GNOME desktop environment.\n .\n This package contains the translations.","dependencies":[],"reverseDependencies":[]}

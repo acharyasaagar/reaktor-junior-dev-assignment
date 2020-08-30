@@ -1,0 +1,1 @@
+{"name":"gcc","description":"GNU C compiler\n This is the GNU C compiler, a fairly portable optimizing compiler for C.\n .\n This is a dependency package providing the default GNU C compiler.","dependencies":[{"name":"cpp","alternates":[]},{"name":"gcc-7","alternates":[]}],"reverseDependencies":[]}

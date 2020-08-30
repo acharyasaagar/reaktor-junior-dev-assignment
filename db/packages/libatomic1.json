@@ -1,0 +1,1 @@
+{"name":"libatomic1","description":"support library providing __atomic built-in functions\n library providing __atomic built-in functions. When an atomic call cannot\n be turned into lock-free instructions, GCC will make calls into this library.","dependencies":[{"name":"gcc-8-base","alternates":[]},{"name":"libc6","alternates":[]}],"reverseDependencies":[]}

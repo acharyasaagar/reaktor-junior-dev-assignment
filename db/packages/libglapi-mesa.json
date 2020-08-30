@@ -1,0 +1,1 @@
+{"name":"libglapi-mesa","description":"free implementation of the GL API -- shared library\n The Mesa GL API module is responsible for dispatching all the gl*\n functions. It is intended to be mainly used by both the libgles1-mesa\n and libgles2-mesa packages.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":[]}

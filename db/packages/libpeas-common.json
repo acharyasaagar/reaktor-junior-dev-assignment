@@ -1,0 +1,1 @@
+{"name":"libpeas-common","description":"Application plugin library (common files)\n libpeas is a library that allows applications to support plugins.\n .\n This package contains common files, such as translations and icons.","dependencies":[],"reverseDependencies":[]}

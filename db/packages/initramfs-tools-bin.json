@@ -1,0 +1,1 @@
+{"name":"initramfs-tools-bin","description":"binaries used by initramfs-tools\n This package contains binaries used inside the initramfs images generated\n by initramfs-tools.","dependencies":[{"name":"libc6","alternates":[]},{"name":"libudev1","alternates":[]}],"reverseDependencies":[]}

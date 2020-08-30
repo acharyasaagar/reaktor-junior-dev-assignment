@@ -1,0 +1,1 @@
+{"name":"libtsan0","description":"ThreadSanitizer -- a Valgrind-based detector of data races (runtime)\n ThreadSanitizer (Tsan) is a data race detector for C/C++ programs.\n The Linux and Mac versions are based on Valgrind.","dependencies":[{"name":"gcc-8-base","alternates":[]},{"name":"libc6","alternates":[]},{"name":"libgcc1","alternates":[]}],"reverseDependencies":[]}

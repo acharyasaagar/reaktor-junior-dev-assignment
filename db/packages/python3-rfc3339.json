@@ -1,0 +1,1 @@
+{"name":"python3-rfc3339","description":"parser and generator of RFC 3339-compliant timestamps (Python 3)\n pyRFC3339 parses and generates RFC 3339-compliant timestamps using Python\n datetime.datetime objects.\n .\n This is the Python 3 module.","dependencies":[{"name":"python3-tz","alternates":[]},{"name":"python3:any","alternates":[]}],"reverseDependencies":[]}

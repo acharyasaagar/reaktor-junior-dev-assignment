@@ -1,0 +1,1 @@
+{"name":"libtinfo5","description":"shared low-level terminfo library for terminal handling\n The ncurses library routines are a terminal-independent method of\n updating character screens with reasonable optimization.\n .\n This package contains the shared low-level terminfo library.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":["dialog"]}

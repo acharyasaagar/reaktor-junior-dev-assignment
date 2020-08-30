@@ -1,0 +1,1 @@
+{"name":"libtotem-plparser-common","description":"Totem Playlist Parser library - common files\n totem-pl-parser is a simple GObject-based library to parse a host of\n playlist formats, as well as save those.\n .\n This package contains the translation files.","dependencies":[],"reverseDependencies":["libtotem-plparser17","libtotem-plparser18"]}

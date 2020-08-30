@@ -1,0 +1,1 @@
+{"name":"libkpathsea6","description":"TeX Live: path search library for TeX (runtime part)\n This package contains the runtime part of the Kpathsea[rch] library,\n which implements generic path searching, configuration, and\n TeX-specific file searching.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":["texlive-base","texlive-binaries"]}

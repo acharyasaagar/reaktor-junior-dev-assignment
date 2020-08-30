@@ -1,0 +1,1 @@
+{"name":"bsdutils","description":"basic utilities from 4.4BSD-Lite\n This package contains the bare minimum of BSD utilities needed for a\n Debian system: logger, renice, script, scriptreplay, and wall. The\n remaining standard BSD utilities are provided by bsdmainutils.","dependencies":[],"reverseDependencies":["bash-completion"]}

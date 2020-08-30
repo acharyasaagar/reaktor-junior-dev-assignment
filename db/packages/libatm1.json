@@ -1,0 +1,1 @@
+{"name":"libatm1","description":"shared library for ATM (Asynchronous Transfer Mode)\n Shared libraries needed by ATM (Asynchronous Transfer Mode) related programs","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":[]}

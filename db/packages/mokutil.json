@@ -1,0 +1,1 @@
+{"name":"mokutil","description":"tools for manipulating machine owner keys\n This program provides the means to enroll and erase the machine owner\n keys (MOK) stored in the database of shim.","dependencies":[{"name":"libc6","alternates":[]},{"name":"libefivar1","alternates":[]},{"name":"libssl1.1","alternates":[]}],"reverseDependencies":[]}

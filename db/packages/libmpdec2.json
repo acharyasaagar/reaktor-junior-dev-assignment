@@ -1,0 +1,1 @@
+{"name":"libmpdec2","description":"library for decimal floating point arithmetic (runtime library)\n mpdecimal is a package for correctly-rounded arbitrary precision decimal\n floating point arithmetic.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":["libmpdec2.3"]}

@@ -1,0 +1,1 @@
+{"name":"init","description":"metapackage ensuring an init system is installed\n This package is a metapackage which allows you to select from the available\n init systems while ensuring that one of these is available on the system at\n all times.","dependencies":[{"name":"init-system-helpers","alternates":[]}],"reverseDependencies":[]}

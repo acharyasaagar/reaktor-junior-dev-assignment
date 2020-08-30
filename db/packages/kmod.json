@@ -1,0 +1,1 @@
+{"name":"kmod","description":"tools for managing Linux kernel modules\n This package contains a set of programs for loading, inserting, and\n removing kernel modules for Linux.\n It replaces module-init-tools.","dependencies":[{"name":"libc6","alternates":[]},{"name":"libkmod2","alternates":[]},{"name":"lsb-base","alternates":[]}],"reverseDependencies":["oss-compat"]}

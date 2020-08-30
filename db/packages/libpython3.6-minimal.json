@@ -1,0 +1,1 @@
+{"name":"libpython3.6-minimal","description":"Minimal subset of the Python language (version 3.6)\n This package contains some essential modules. It is normally not\n used on it's own, but as a dependency of python3.6-minimal.","dependencies":[{"name":"libc6","alternates":[]},{"name":"libssl1.1","alternates":[]}],"reverseDependencies":[]}

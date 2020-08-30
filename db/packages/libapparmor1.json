@@ -1,0 +1,1 @@
+{"name":"libapparmor1","description":"changehat AppArmor library\n libapparmor1 provides the shared library used for making use\n of the AppArmor profile and changehat functionality, as well as common\n log parsing routines.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":[]}

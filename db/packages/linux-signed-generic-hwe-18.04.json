@@ -1,0 +1,1 @@
+{"name":"linux-signed-generic-hwe-18.04","description":"Complete Signed Generic Linux kernel and headers (dummy transitional package)\n This package will always depend on the latest complete generic Linux kernel\n and headers.  Signed with the Ubuntu EFI key.","dependencies":[{"name":"linux-generic-hwe-18.04","alternates":[]}],"reverseDependencies":[]}

@@ -1,0 +1,1 @@
+{"name":"libgnome-autoar-0-0","description":"Archives integration support for GNOME\n GNOME Autoar is a library which makes creating and extracting archives easy,\n safe, and automatic.","dependencies":[{"name":"libarchive13","alternates":[]},{"name":"libc6","alternates":[]},{"name":"libglib2.0-0","alternates":[]}],"reverseDependencies":[]}

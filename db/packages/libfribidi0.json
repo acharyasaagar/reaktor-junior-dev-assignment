@@ -1,0 +1,1 @@
+{"name":"libfribidi0","description":"Free Implementation of the Unicode BiDi algorithm\n FriBiDi is a BiDi algorithm implementation for Hebrew and/or Arabic\n languages.\n This package contains the shared libraries.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":[]}

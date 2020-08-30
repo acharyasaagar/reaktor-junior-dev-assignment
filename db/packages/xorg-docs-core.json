@@ -1,0 +1,1 @@
+{"name":"xorg-docs-core","description":"Core documentation for the X.org X Window System\n This package contains core documentation for the X.org X Window\n System. This currently includes only a set of manpages which are\n standard for the system.","dependencies":[],"reverseDependencies":[]}

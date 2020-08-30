@@ -1,0 +1,1 @@
+{"name":"libplist3","description":"Library for handling Apple binary and XML property lists\n libplist is a library for reading and writing the Apple binary and XML\n property lists format. It's part of the libimobiledevice stack, providing\n access to iDevices (iPod, iPhone, iPad ...).","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":[]}

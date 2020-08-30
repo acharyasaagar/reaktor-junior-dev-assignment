@@ -1,0 +1,1 @@
+{"name":"libacl1","description":"Access control list shared library\n This package contains the libacl.so dynamic library containing\n the POSIX 1003.1e draft standard 17 functions for manipulating\n access control lists.","dependencies":[{"name":"libattr1","alternates":[]},{"name":"libc6","alternates":[]}],"reverseDependencies":[]}

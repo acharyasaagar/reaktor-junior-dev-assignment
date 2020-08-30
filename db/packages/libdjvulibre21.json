@@ -1,0 +1,1 @@
+{"name":"libdjvulibre21","description":"Runtime support for the DjVu image format\n DjVu runtime library.","dependencies":[{"name":"libc6","alternates":[]},{"name":"libgcc1","alternates":[]},{"name":"libjpeg8","alternates":[]},{"name":"libstdc++6","alternates":[]},{"name":"libdjvulibre-text","alternates":[]}],"reverseDependencies":[]}

@@ -1,0 +1,1 @@
+{"name":"libjpeg8","description":"Independent JPEG Group's JPEG runtime library (dependency package)\n libjpeg8 dependency package, depending on libjpeg-turbo8.","dependencies":[{"name":"libjpeg-turbo8","alternates":[]}],"reverseDependencies":[]}

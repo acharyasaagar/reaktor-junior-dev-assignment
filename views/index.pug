@@ -1,0 +1,57 @@
+doctype html
+html 
+  head 
+    link(rel="stylesheet", href="/styles.css" type='text/css')
+    link(href="https://fonts.googleapis.com/css2?family=Assistant:wght@200;300;400;600;700;800&display=swap" rel="stylesheet")
+  body
+    main
+      div#search
+        span
+          svg(xmlns="http://www.w3.org/2000/svg" width="1.3rem" height="1.3rem" viewBox="0 0 512 512")
+            title ionicons-v5-f
+            path(d="M221.09,64A157.09,157.09,0,1,0,378.18,221.09,157.1,157.1,0,0,0,221.09,64Z" style="fill:none;stroke:#002639;stroke-miterlimit:10;stroke-width:32px")
+            line(x1="338.29" y1="338.29" x2="448" y2="448" style="fill:none;stroke:#002639;stroke-linecap:round;stroke-miterlimit:10;stroke-width:32px")
+        input(name="query" type="text" id="search-input" placeholder="Search by tag")
+      if packages && packages.length > 0
+        ul#list
+          each package in packages
+            li.list-item(id=package.name data-tags= package.tags)
+              a.link(href= package.name)= package.name
+              if package.tags && package.tags.length > 0
+                .flex
+                  each tag in package.tags
+                    span.tag= tag
+
+
+    script. 
+      const hideNode = node => {
+        node.classList.add('d-none')
+      }
+      const showNode = node => {
+        node.classList.remove('d-none')
+      }
+
+      const searchByTags = e => {
+        const query = e.target.value.toLowerCase()
+        const queryRegex = new RegExp(query, 'i')
+        console.log(query)
+        const allListNodes = document.querySelectorAll('.list-item')
+        for(let node of allListNodes) {
+          const tags = node.dataset.tags.toLowerCase().split(',')
+          if (tags.some(tag => tag.search(queryRegex) >= 0)) {
+            showNode(node)
+            continue
+          } else {
+            hideNode(node)
+            continue
+          }
+        }
+      }
+
+      const searchInput = document.getElementById('search-input')
+      searchInput.addEventListener('input', searchByTags)
+      searchInput.addEventListener('blur', e => {
+        e.target.value = ''
+        const inputEvent = new InputEvent('input')
+        e.target.dispatchEvent(inputEvent)
+      })

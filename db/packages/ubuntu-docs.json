@@ -1,0 +1,1 @@
+{"name":"ubuntu-docs","description":"Ubuntu Desktop Guide\n This package holds the official Ubuntu-specific documentation, maintained\n by the Ubuntu Documentation Team. The documentation can be viewed using\n Yelp, the GNOME help browser.","dependencies":[{"name":"yelp","alternates":[]}],"reverseDependencies":["gnome-user-guide"]}

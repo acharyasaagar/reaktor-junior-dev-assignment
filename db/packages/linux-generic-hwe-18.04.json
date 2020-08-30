@@ -1,0 +1,1 @@
+{"name":"linux-generic-hwe-18.04","description":"Complete Generic Linux kernel and headers\n This package will always depend on the latest complete generic Linux kernel\n and headers.","dependencies":[{"name":"linux-image-generic-hwe-18.04","alternates":[]},{"name":"linux-headers-generic-hwe-18.04","alternates":[]}],"reverseDependencies":[]}

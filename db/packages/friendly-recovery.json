@@ -1,0 +1,1 @@
+{"name":"friendly-recovery","description":"Make recovery boot mode more user-friendly\n Make the recovery boot mode more user-friendly by providing a menu\n with pluggable options.","dependencies":[{"name":"systemd-sysv","alternates":[]},{"name":"whiptail","alternates":[]}],"reverseDependencies":["grub2","initramfs-tools","upstart"]}

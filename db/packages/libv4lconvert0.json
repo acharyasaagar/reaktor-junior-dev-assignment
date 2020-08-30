@@ -1,0 +1,1 @@
+{"name":"libv4lconvert0","description":"Video4linux frame format conversion library\n libv4lconvert offers functions to convert from any (known) pixelformat\n to BGR24, RGB24, YUV420 and YVU420.\n .\n This package contains the shared library.","dependencies":[{"name":"libc6","alternates":[]},{"name":"libjpeg8","alternates":[]}],"reverseDependencies":["libv4l-0"]}

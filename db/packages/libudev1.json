@@ -1,0 +1,1 @@
+{"name":"libudev1","description":"libudev shared library\n This library provides access to udev device information.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":[]}

@@ -1,0 +1,1 @@
+{"name":"ubuntu-release-upgrader-core","description":"manage release upgrades\n This is the core of the Ubuntu Release Upgrader","dependencies":[{"name":"python3:any","alternates":[]},{"name":"python3-distupgrade","alternates":[]},{"name":"ca-certificates","alternates":[]}],"reverseDependencies":["software-properties","update-manager","update-manager-core"]}

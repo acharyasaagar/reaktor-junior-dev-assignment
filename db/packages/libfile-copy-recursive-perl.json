@@ -1,0 +1,1 @@
+{"name":"libfile-copy-recursive-perl","description":"Perl extension for recursively copying files and directories\n File::Copy::Recursive module copies and moves directories recursively\n (or single files, well... singley) to an optional depth and attempts\n to preserve each file or directory's mode.","dependencies":[{"name":"perl","alternates":[]}],"reverseDependencies":[]}

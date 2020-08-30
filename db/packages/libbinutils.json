@@ -1,0 +1,1 @@
+{"name":"libbinutils","description":"GNU binary utilities (private shared library)\n This package includes the private shared libraries libbfd and libopcodes.","dependencies":[{"name":"libc6","alternates":[]},{"name":"zlib1g","alternates":[]},{"name":"binutils-common","alternates":[]}],"reverseDependencies":["binutils"]}

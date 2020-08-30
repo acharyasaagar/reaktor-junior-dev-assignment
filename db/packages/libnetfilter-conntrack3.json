@@ -1,0 +1,1 @@
+{"name":"libnetfilter-conntrack3","description":"Netfilter netlink-conntrack library\n libnetfilter_conntrack is a userspace library providing a programming\n interface (API) to the in-kernel connection tracking state table.","dependencies":[{"name":"libc6","alternates":[]},{"name":"libmnl0","alternates":[]},{"name":"libnfnetlink0","alternates":[]}],"reverseDependencies":[]}

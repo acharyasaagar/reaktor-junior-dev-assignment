@@ -1,0 +1,1 @@
+{"name":"fwupdate","description":"Transitional package for fwupd\n This is a transitional package to move users of fwupdate 12-5 or earlier to fuwpd.","dependencies":[{"name":"fwupd","alternates":[]}],"reverseDependencies":["fwupdate-amd64-signed-template","fwupdate-arm64-signed-template","fwupdate-armhf-signed-template","fwupdate-i386-signed-template"]}

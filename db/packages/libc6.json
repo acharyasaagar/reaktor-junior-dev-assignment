@@ -1,0 +1,13 @@
+{
+  "name": "libc6",
+  "description": "GNU C Library: Shared libraries\n Contains the standard libraries that are used by nearly all programs on\n the system. This package includes shared versions of the standard C library\n and the standard math library, as well as many others.",
+  "dependencies": [{ "name": "libgcc1", "alternates": [] }],
+  "reverseDependencies": [
+    "hurd",
+    "libtirpc1",
+    "locales",
+    "locales-all",
+    "nscd"
+  ],
+  "notes": []
+}

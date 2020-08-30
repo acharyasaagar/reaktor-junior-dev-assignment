@@ -1,0 +1,1 @@
+{"name":"python-apt-common","description":"Python interface to libapt-pkg (locales)\n The apt_pkg Python interface will provide full access to the internal\n libapt-pkg structures allowing Python programs to easily perform a\n variety of functions.\n .\n This package contains locales.","dependencies":[],"reverseDependencies":["python-apt"]}

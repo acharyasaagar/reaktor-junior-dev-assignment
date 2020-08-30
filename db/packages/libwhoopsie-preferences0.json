@@ -1,0 +1,1 @@
+{"name":"libwhoopsie-preferences0","description":"Ubuntu error tracker submission settings - shared library\n This library provides convenience DBus methods for interfacing with the error\n tracker submission settings daemon.","dependencies":[{"name":"libc6","alternates":[]},{"name":"libglib2.0-0","alternates":[]}],"reverseDependencies":["whoopsie"]}

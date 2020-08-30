@@ -1,0 +1,1 @@
+{"name":"install-info","description":"Manage installed documentation in info format\n The install-info utility creates the index of all installed documentation\n in info format and makes it available to info readers.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":["texinfo"]}

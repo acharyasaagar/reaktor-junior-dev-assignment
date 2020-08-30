@@ -1,0 +1,1 @@
+{"name":"libasyncns0","description":"Asynchronous name service query library\n libasyncns is a C library for Linux/Unix for executing name service queries\n asynchronously. It is an asynchronous wrapper around getaddrinfo(3),\n getnameinfo(3), res_query(3) and res_search(3) from libc and libresolv.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":[]}

@@ -1,0 +1,1 @@
+{"name":"fonts-telu-extra","description":"Free fonts for Telugu script\n This package provides free fonts for Telugu script (te) which is widely used\n in the Indian state of Andhra Pradesh.\n .\n This package contains following fonts:\n * Pothana2000\n * Vemana2000","dependencies":[],"reverseDependencies":["ttf-telugu-fonts"]}

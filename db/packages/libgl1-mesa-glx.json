@@ -1,0 +1,1 @@
+{"name":"libgl1-mesa-glx","description":"transitional dummy package\n This is a transitional dummy package, it can be safely removed.","dependencies":[{"name":"libgl1","alternates":[]},{"name":"libglx-mesa0","alternates":[]}],"reverseDependencies":[]}

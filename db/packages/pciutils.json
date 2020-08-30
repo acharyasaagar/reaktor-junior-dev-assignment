@@ -1,0 +1,1 @@
+{"name":"pciutils","description":"Linux PCI Utilities\n This package contains various utilities for inspecting and setting of\n devices connected to the PCI bus.","dependencies":[{"name":"libc6","alternates":[]},{"name":"libkmod2","alternates":[]},{"name":"libpci3","alternates":[]}],"reverseDependencies":[]}

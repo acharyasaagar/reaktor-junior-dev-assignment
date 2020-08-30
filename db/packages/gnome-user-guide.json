@@ -1,0 +1,1 @@
+{"name":"gnome-user-guide","description":"GNOME user's guide - dummy transitional package\n Documentation for using the GNOME desktop environment and its components.\n .\n This package is here just to allow the transition to gnome-user-docs; it\n can be safely removed once installed.","dependencies":[{"name":"gnome-user-docs","alternates":[]}],"reverseDependencies":[]}

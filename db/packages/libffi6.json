@@ -1,0 +1,1 @@
+{"name":"libffi6","description":"Foreign Function Interface library runtime\n A foreign function interface is the popular name for the interface that\n allows code written in one language to call code written in another\n language.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":[]}

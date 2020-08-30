@@ -1,0 +1,1 @@
+{"name":"dosfstools","description":"utilities for making and checking MS-DOS FAT filesystems\n The dosfstools package includes the mkfs.fat and fsck.fat utilities, which\n respectively make and check MS-DOS FAT filesystems.","dependencies":[{"name":"libc6","alternates":[]},{"name":"libudev1","alternates":[]}],"reverseDependencies":[]}

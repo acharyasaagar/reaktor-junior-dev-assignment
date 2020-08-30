@@ -1,0 +1,1 @@
+{"name":"libdb5.3","description":"Berkeley v5.3 Database Libraries [runtime]\n This is the runtime package for programs that use the v5.3 Berkeley\n database library.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":[]}

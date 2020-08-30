@@ -1,0 +1,1 @@
+{"name":"libldap-common","description":"OpenLDAP common files for libraries\n These are common files for the run-time libraries for the OpenLDAP\n (Lightweight Directory Access Protocol) servers and clients.","dependencies":[],"reverseDependencies":[]}

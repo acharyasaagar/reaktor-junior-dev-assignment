@@ -1,0 +1,1 @@
+{"name":"fonts-tlwg-laksaman-ttf","description":"Thai Laksaman TrueType font\n This package provides Thai Laksaman font from TLWG, in TrueType format.\n .\n Modified from Sarabun, the font provides Thai monoweight glyphs as used\n in Thai official documents and letters.","dependencies":[],"reverseDependencies":["fonts-tlwg-laksaman"]}

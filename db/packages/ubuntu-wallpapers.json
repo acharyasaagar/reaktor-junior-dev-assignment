@@ -1,0 +1,1 @@
+{"name":"ubuntu-wallpapers","description":"Ubuntu Wallpapers\n The default Ubuntu wallpaper. This is also a meta-package depending on the\n other default wallpapers for the current Ubuntu release.","dependencies":[{"name":"ubuntu-wallpapers-bionic","alternates":[]}],"reverseDependencies":[]}

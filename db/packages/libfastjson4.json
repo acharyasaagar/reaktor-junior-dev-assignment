@@ -1,0 +1,1 @@
+{"name":"libfastjson4","description":"fast json library for C\n The libfastjson library is a fork from json-c with a focus on performance.\n .\n This package contains the shared library.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":[]}

@@ -1,0 +1,1 @@
+{"name":"libqmi-glib5","description":"Support library to use the Qualcomm MSM Interface (QMI) protocol\n Libraries for adding QMI support to applications that use glib.","dependencies":[{"name":"libc6","alternates":[]},{"name":"libglib2.0-0","alternates":[]},{"name":"libmbim-glib4","alternates":[]},{"name":"libmbim-proxy","alternates":[]}],"reverseDependencies":[]}

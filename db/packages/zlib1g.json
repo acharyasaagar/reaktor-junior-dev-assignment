@@ -1,0 +1,1 @@
+{"name":"zlib1g","description":"compression library - runtime\n zlib is a library implementing the deflate compression method found\n in gzip and PKZIP.  This package includes the shared library.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":["libxml2","texlive-binaries"]}

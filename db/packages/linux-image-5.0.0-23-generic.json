@@ -1,0 +1,1 @@
+{"name":"linux-image-5.0.0-23-generic","description":"Signed kernel image generic\n A kernel image for generic.  This version of it is signed with\n Canonical's UEFI/Opal signing key.","dependencies":[{"name":"kmod","alternates":[]},{"name":"linux-base","alternates":[]},{"name":"linux-modules-5.0.0-23-generic","alternates":[]}],"reverseDependencies":[]}

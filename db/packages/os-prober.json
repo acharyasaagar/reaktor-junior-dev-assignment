@@ -1,0 +1,1 @@
+{"name":"os-prober","description":"utility to detect other OSes on a set of drives\n This package detects other OSes available on a system and outputs the\n results in a generic machine-readable format.","dependencies":[{"name":"libc6","alternates":[]},{"name":"grub-common","alternates":[]},{"name":"dmsetup","alternates":[]}],"reverseDependencies":[]}

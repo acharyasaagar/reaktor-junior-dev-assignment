@@ -1,0 +1,1 @@
+{"name":"fwupdate-signed","description":"Transitional package for fwupd\n This is a transitional package to move users of fwupdate-signed to\n fuwpd-signed.","dependencies":[{"name":"fwupd-signed","alternates":[]}],"reverseDependencies":[]}

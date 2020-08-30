@@ -1,0 +1,1 @@
+{"name":"libmount1","description":"device mounting library\n This device mounting library is used by mount and umount helpers.","dependencies":[{"name":"libblkid1","alternates":[]},{"name":"libc6","alternates":[]},{"name":"libselinux1","alternates":[]}],"reverseDependencies":[]}

@@ -1,0 +1,1 @@
+{"name":"secureboot-db","description":"Secure Boot updates for DB and DBX\n Systems with Secure Boot enabled have portions of the system signed by entries\n in the Secure Boot DB. This package provides a mechanism for delivering\n updates to DB and the corresponding blacklist database, DBX.","dependencies":[{"name":"sbsigntool","alternates":[]}],"reverseDependencies":[]}

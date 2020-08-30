@@ -1,0 +1,1 @@
+{"name":"libpam-modules","description":"Pluggable Authentication Modules for PAM\n This package completes the set of modules for PAM. It includes the\n  pam_unix.so module as well as some specialty modules.","dependencies":[],"reverseDependencies":[]}

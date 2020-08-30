@@ -1,0 +1,1 @@
+{"name":"liblsan0","description":"LeakSanitizer -- a memory leak detector (runtime)\n LeakSanitizer (Lsan) is a memory leak detector which is integrated\n into AddressSanitizer.","dependencies":[{"name":"gcc-8-base","alternates":[]},{"name":"libc6","alternates":[]},{"name":"libgcc1","alternates":[]}],"reverseDependencies":[]}

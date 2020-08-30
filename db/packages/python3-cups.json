@@ -1,0 +1,1 @@
+{"name":"python3-cups","description":"Python3 bindings for CUPS\n A module for using the CUPS 1.2 API in Python3 programs.","dependencies":[{"name":"python3","alternates":[]},{"name":"python3","alternates":[]},{"name":"libc6","alternates":[]},{"name":"libcups2","alternates":[]}],"reverseDependencies":[]}

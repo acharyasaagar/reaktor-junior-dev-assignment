@@ -1,0 +1,1 @@
+{"name":"gnome-user-docs","description":"GNOME user's guide\n Documentation for using the GNOME desktop environment and its components.\n It covers usage and setup of the core GNOME programs.","dependencies":[{"name":"ubuntu-docs","alternates":[]},{"name":"yelp","alternates":[]}],"reverseDependencies":["gnome-user-guide","ubuntu-docs"]}

@@ -1,0 +1,1 @@
+{"name":"nautilus-data","description":"data files for nautilus\n Nautilus is the official file manager and graphical shell for the\n GNOME desktop.\n .\n This package contains pictures, localization files and other data\n needed by nautilus.","dependencies":[{"name":"dconf-gsettings-backend","alternates":["gsettings-backend"]}],"reverseDependencies":[]}

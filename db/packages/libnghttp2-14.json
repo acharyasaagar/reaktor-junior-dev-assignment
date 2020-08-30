@@ -1,0 +1,1 @@
+{"name":"libnghttp2-14","description":"library implementing HTTP/2 protocol (shared library)\n This is an implementation of the Hypertext Transfer Protocol version\n 2 in C. The framing layer of HTTP/2 is implemented as a reusable C\n library.\n .\n This package installs a shared library.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":[]}

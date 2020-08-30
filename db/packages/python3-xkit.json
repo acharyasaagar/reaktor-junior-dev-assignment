@@ -1,0 +1,1 @@
+{"name":"python3-xkit","description":"library for the manipulation of xorg.conf files (Python 3)\n X-Kit is library for the manipulation of xorg.conf files.\n .\n This is the Python 3 version of the package.","dependencies":[{"name":"python3:any","alternates":[]}],"reverseDependencies":[]}

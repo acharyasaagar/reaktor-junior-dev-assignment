@@ -1,0 +1,1 @@
+{"name":"libnginx-mod-mail","description":"Mail module for Nginx\n The nginx_mail module adds mail proxy support to nginx.\n .\n The module supports proxying all the standard mail protocols such as IMAP,\n POP3 & SMTP.","dependencies":[{"name":"nginx-common","alternates":[]},{"name":"libc6","alternates":[]}],"reverseDependencies":[]}

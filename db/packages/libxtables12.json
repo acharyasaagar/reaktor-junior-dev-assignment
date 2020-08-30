@@ -1,0 +1,1 @@
+{"name":"libxtables12","description":"netfilter xtables library\n The user-space interface to the Netfilter xtables kernel framework.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":["iptables","libxtables11"]}

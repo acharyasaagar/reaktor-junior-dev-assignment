@@ -1,0 +1,1 @@
+{"name":"gnome-shell-common","description":"common files for the GNOME graphical shell\n This package contains translations and data files for the GNOME shell.","dependencies":[{"name":"dconf-gsettings-backend","alternates":["gsettings-backend"]}],"reverseDependencies":["gnome-calendar","gnome-tweak-tool"]}

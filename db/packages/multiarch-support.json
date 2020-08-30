@@ -1,0 +1,1 @@
+{"name":"multiarch-support","description":"Transitional package to ensure multiarch compatibility\n This is a transitional package used to ensure multiarch support is present\n in ld.so before unpacking libraries to the multiarch directories.  It can\n be removed once nothing on the system depends on it.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":[]}

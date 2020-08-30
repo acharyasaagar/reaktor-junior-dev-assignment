@@ -1,0 +1,1 @@
+{"name":"libzstd1","description":"fast lossless compression algorithm\n Zstd, short for Zstandard, is a fast lossless compression algorithm, targeting\n real-time compression scenarios at zlib-level compression ratio.\n .\n This package contains the shared library.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":[]}

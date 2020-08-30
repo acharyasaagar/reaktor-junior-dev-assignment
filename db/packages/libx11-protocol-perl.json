@@ -1,0 +1,1 @@
+{"name":"libx11-protocol-perl","description":"Perl module for the X Window System Protocol, version 11\n X11::Protocol is a client-side interface to the X11 Protocol (see X(1) for\n information about X11), allowing perl programs to display windows and\n graphics on X11 servers.","dependencies":[{"name":"perl","alternates":[]}],"reverseDependencies":[]}

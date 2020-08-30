@@ -1,0 +1,1 @@
+{"name":"libxml-namespacesupport-perl","description":"Perl module for supporting simple generic namespaces\n XML::NamespaceSupport offers a simple way to process namespace-based XML\n names. It also helps maintain a prefix-to-namespace URI map and provides a\n number of basic checks.","dependencies":[{"name":"perl","alternates":[]}],"reverseDependencies":[]}

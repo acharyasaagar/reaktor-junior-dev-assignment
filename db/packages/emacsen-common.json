@@ -1,0 +1,1 @@
+{"name":"emacsen-common","description":"Common facilities for all emacsen\n This package contains code that is needed by all the (x)emacs\n packages.  It will be automatically installed when needed.","dependencies":[],"reverseDependencies":[]}

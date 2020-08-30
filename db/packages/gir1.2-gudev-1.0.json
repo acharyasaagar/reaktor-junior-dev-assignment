@@ -1,0 +1,1 @@
+{"name":"gir1.2-gudev-1.0","description":"libgudev-1.0 introspection data\n This package contains the GObject-introspection data of libgudev-1.0 in\n binary typelib format.","dependencies":[{"name":"gir1.2-glib-2.0","alternates":[]},{"name":"libgudev-1.0-0","alternates":[]}],"reverseDependencies":[]}

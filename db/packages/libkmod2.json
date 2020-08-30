@@ -1,0 +1,1 @@
+{"name":"libkmod2","description":"libkmod shared library\n This library provides an API for insertion, removal, configuration and\n listing of kernel modules.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":[]}

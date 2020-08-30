@@ -1,0 +1,1 @@
+{"name":"libmbim-glib4","description":"Support library to use the MBIM protocol\n libmbim is a glib-based library for talking to WWAN modems and devices\n which speak the Mobile Interface Broadband Model (MBIM) protocol.","dependencies":[{"name":"libc6","alternates":[]},{"name":"libglib2.0-0","alternates":[]},{"name":"libgudev-1.0-0","alternates":[]}],"reverseDependencies":[]}

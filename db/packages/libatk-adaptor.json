@@ -1,0 +1,1 @@
+{"name":"libatk-adaptor","description":"AT-SPI 2 toolkit bridge\n This package includes a gtk-module that bridges ATK to the new\n D-Bus based AT-SPI.","dependencies":[{"name":"libatk-bridge2.0-0","alternates":[]},{"name":"libc6","alternates":[]},{"name":"libglib2.0-0","alternates":[]}],"reverseDependencies":[]}

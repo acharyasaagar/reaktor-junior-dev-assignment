@@ -1,0 +1,1 @@
+{"name":"lsof","description":"Utility to list open files\n Lsof is a Unix-specific diagnostic tool.  Its name stands\n for LiSt Open Files, and it does just that.  It lists\n information about any files that are open, by processes\n currently running on the system.","dependencies":[{"name":"libc6","alternates":[]},{"name":"libselinux1","alternates":[]}],"reverseDependencies":[]}

@@ -1,0 +1,1 @@
+{"name":"gnome-settings-daemon-schemas","description":"Shared schemas for gnome-settings-daemon\n This package contains the gsettings schemas used by\n gnome-settings-daemon and unity-settings-daemon.","dependencies":[{"name":"dconf-gsettings-backend","alternates":["gsettings-backend"]}],"reverseDependencies":["gnome-settings-daemon"]}

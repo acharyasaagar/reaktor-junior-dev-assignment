@@ -1,0 +1,1 @@
+{"name":"libsmartcols1","description":"smart column output alignment library\n This smart column output alignment library is used by fdisk utilities.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":[]}

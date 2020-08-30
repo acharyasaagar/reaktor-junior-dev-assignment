@@ -1,0 +1,1 @@
+{"name":"libogg0","description":"Ogg bitstream library\n Libogg is a library for manipulating ogg bitstreams.  It handles\n both making ogg bitstreams and getting packets from ogg bitstreams.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":[]}

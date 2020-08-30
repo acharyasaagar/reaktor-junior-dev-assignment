@@ -1,0 +1,1 @@
+{"name":"pptp-linux","description":"Point-to-Point Tunneling Protocol (PPTP) Client\n Client for the proprietary Microsoft Point-to-Point Tunneling\n Protocol, PPTP.  Allows connection to a PPTP based VPN as used\n by employers and some cable and ADSL service providers.","dependencies":[{"name":"libc6","alternates":[]},{"name":"ppp","alternates":[]}],"reverseDependencies":[]}

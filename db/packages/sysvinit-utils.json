@@ -1,0 +1,1 @@
+{"name":"sysvinit-utils","description":"System-V-like utilities\n This package contains the important System-V-like utilities.\n .\n Specifically, this package includes:\n killall5, pidof","dependencies":[{"name":"libc6","alternates":[]},{"name":"init-system-helpers","alternates":[]},{"name":"util-linux","alternates":[]}],"reverseDependencies":["systemd"]}

@@ -1,0 +1,1 @@
+{"name":"apt-transport-https","description":"transitional package for https support\n This is a dummy transitional package - https support has been moved into\n the apt package in 1.5. It can be safely removed.","dependencies":[{"name":"apt","alternates":[]}],"reverseDependencies":[]}

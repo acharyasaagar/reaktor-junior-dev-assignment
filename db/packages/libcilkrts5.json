@@ -1,0 +1,1 @@
+{"name":"libcilkrts5","description":"Intel Cilk Plus language extensions (runtime)\n Intel Cilk Plus is an extension to the C and C++ languages to support\n data and task parallelism.","dependencies":[{"name":"gcc-7-base","alternates":[]},{"name":"libc6","alternates":[]},{"name":"libgcc1","alternates":[]},{"name":"libstdc++6","alternates":[]}],"reverseDependencies":[]}

@@ -1,0 +1,1 @@
+{"name":"libwhoopsie0","description":"Ubuntu error tracker submission - shared library\n This library provides methods to generate an identifier for use with the\n Ubuntu error tracker","dependencies":[{"name":"libc6","alternates":[]},{"name":"libgcrypt20","alternates":[]},{"name":"libglib2.0-0","alternates":[]}],"reverseDependencies":[]}

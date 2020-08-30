@@ -1,0 +1,1 @@
+{"name":"libx264-152","description":"x264 video coding library\n libx264 is an advanced encoding library for creating H.264 (MPEG-4 AVC)\n video streams.\n .\n This package contains the libx264 shared library.","dependencies":[{"name":"libc6","alternates":[]}],"reverseDependencies":[]}

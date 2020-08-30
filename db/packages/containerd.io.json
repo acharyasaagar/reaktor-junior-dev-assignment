@@ -1,0 +1,1 @@
+{"name":"containerd.io","description":"An open and reliable container runtime","dependencies":[{"name":"libc6","alternates":[]},{"name":"libseccomp2","alternates":[]}],"reverseDependencies":[]}

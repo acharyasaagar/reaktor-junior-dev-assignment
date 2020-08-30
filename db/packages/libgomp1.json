@@ -1,0 +1,1 @@
+{"name":"libgomp1","description":"GCC OpenMP (GOMP) support library\n GOMP is an implementation of OpenMP for the C, C++, and Fortran compilers\n in the GNU Compiler Collection.","dependencies":[{"name":"gcc-8-base","alternates":[]},{"name":"libc6","alternates":[]}],"reverseDependencies":["gcc-4.3","gcc-4.4","gcc-4.5"]}

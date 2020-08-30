@@ -1,0 +1,1 @@
+{"name":"libasan4","description":"AddressSanitizer -- a fast memory error detector\n AddressSanitizer (ASan) is a fast memory error detector.  It finds\n use-after-free and {heap,stack,global}-buffer overflow bugs in C/C++ programs.","dependencies":[{"name":"gcc-7-base","alternates":[]},{"name":"libc6","alternates":[]},{"name":"libgcc1","alternates":[]}],"reverseDependencies":[]}
