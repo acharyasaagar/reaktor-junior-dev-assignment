@@ -76,4 +76,6 @@ app.get('/', (req, res) => {
   return res.render('index', { packages: sorted })
 })
 
-app.listen(8080, () => console.log('listening on port 8080'))
+app.listen((port = process.argv[2] || 8080), () =>
+  console.log(`\nGo to ===> http://localhost:${port} \n`)
+)
