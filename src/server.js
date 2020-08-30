@@ -75,7 +75,6 @@ app.get('/', (req, res) => {
   })
   return res.render('index', { packages: sorted })
 })
-
-app.listen((port = process.argv[2] || 8080), () =>
-  console.log(`\nGo to ===> http://localhost:${port} \n`)
-)
+/** Start app */
+const PORT = process.env.PORT || process.argv[2] || 8080
+app.listen(PORT, () => console.log(`\nGo to ===> http://localhost:${PORT} \n`))
