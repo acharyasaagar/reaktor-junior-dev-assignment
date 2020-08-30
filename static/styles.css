@@ -101,10 +101,10 @@ a {
   border: 1px solid var(--accent-color, #002639);
 }
 
-#search > input {
+#search input {
   background: none;
   border: none;
-  width: 84.8%;
+  width: 84.8;
   height: 2.78rem;
   font-size: 1rem;
   font-weight: 400;
@@ -227,7 +227,7 @@ input,
 textarea {
   padding: 0.4rem;
   width: 60%;
-  min-width: 28rem;
+  width: 28rem;
   background: none;
   outline: none;
   border: 2px solid var(--accent-color, #002639);

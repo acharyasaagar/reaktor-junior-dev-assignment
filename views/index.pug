@@ -51,7 +51,7 @@ html
       const searchInput = document.getElementById('search-input')
       searchInput.addEventListener('input', searchByTags)
       searchInput.addEventListener('blur', e => {
+        console.log(e.target)
         e.target.value = ''
-        const inputEvent = new InputEvent('input')
-        e.target.dispatchEvent(inputEvent)
+        setTimeout(() => e.target.dispatchEvent(new InputEvent('input')), 500)
       })
