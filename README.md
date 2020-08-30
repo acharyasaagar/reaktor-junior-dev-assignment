@@ -3,9 +3,10 @@
 After cloning the repository, project can be run the following way:
 
 ```bash
-  npm run dev -p <portnumber>
+  npm run dev
 
-  -p is optional
+  to run the program on the port number you want set env variable "PORT":
+  PORT=<portnumber> npm run dev
 
 ```
 

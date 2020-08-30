@@ -21,8 +21,6 @@ html
                 .flex
                   each tag in package.tags
                     span.tag= tag
-
-
     script. 
       const hideNode = node => {
         node.classList.add('d-none')
@@ -34,11 +32,13 @@ html
       const searchByTags = e => {
         const query = e.target.value.toLowerCase()
         const queryRegex = new RegExp(query, 'i')
-        console.log(query)
         const allListNodes = document.querySelectorAll('.list-item')
-        for(let node of allListNodes) {
-          const tags = node.dataset.tags.toLowerCase().split(',')
-          if (tags.some(tag => tag.search(queryRegex) >= 0)) {
+        for (let node of allListNodes) {
+          const nodeName = node.getAttribute('id')
+          const tags = node?.dataset?.tags?.toLowerCase().split(',')
+          const tagMatchesQuery = tags?.some(tag => tag.search(queryRegex) >= 0)
+          const nodeMatchesQuery = nodeName.search(queryRegex) >= 0
+          if (tagMatchesQuery || nodeMatchesQuery) {
             showNode(node)
             continue
           } else {
